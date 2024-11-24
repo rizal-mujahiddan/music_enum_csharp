@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BeepDotnet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11b8f9fa87d8e6f8a87697bc4a60145dd38f9f5f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+269722d87551b15d11c10cc67aff46fe6faa9862")]
 [assembly: System.Reflection.AssemblyProductAttribute("BeepDotnet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BeepDotnet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
