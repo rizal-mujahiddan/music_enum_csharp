@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0Cv1TLhH1Rg=",
+  "dgSpecHash": "4dGuYuoAX6E=",
   "success": true,
-  "projectFilePath": "D:\\Documents\\ProjekSoftware\\DotnetBeep\\BeepDotnet\\BeepDotnet.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/qwer/Documents/music_enum_csharp/BeepDotnet/BeepDotnet.csproj",
+  "expectedPackageFiles": [
+    "/home/qwer/.nuget/packages/netcoreaudio/2.0.0/netcoreaudio.2.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

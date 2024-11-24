@@ -20,7 +20,7 @@ public class Program
         var bpmGlobal = 120;
         var periodGlobal = BpmToPeriodku(bpmGlobal);
 
-        var hasil = new MusicSheetToBeep("MusicSheet/rizalmusic.txt");
+        var hasil = new MusicSheetToBeep("MusicSheet/laMaritza.txt");
         hasil.beep();
     }
 }
